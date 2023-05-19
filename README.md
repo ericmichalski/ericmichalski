@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page!
 
-I'm a 5th year Computer Science student at the University of Cincinnati. I'm quite interested in game development and would love to be able to work on games as a full time career.
+I'm a recent grad in Computer Science at the University of Cincinnati. I'm quite interested in game development and would love to be able to work on games as a full time career.
 
 Here's my [resume](https://github.com/ericmichalski/About-Me/blob/main/EricMichalski_Resume.pdf) with my co-op experiences, achievements, and some of my favorite games!
 
